@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0978-valid-mountain-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
