@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
