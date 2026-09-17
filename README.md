@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Greedy
 |  |
 | ------- |
