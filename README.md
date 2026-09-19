@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1031-add-to-array-form-of-integer](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0221-maximal-square) |
 ## Memoization
@@ -168,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
