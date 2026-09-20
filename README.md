@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -182,4 +184,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
