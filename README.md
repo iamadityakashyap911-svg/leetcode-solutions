@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0890-lemonade-change](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0978-valid-mountain-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
