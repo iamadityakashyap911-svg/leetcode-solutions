@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1031-add-to-array-form-of-integer](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 ## Counting
 |  |
