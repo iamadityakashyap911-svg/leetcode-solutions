@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -152,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
