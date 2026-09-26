@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Math
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Binary Search
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
