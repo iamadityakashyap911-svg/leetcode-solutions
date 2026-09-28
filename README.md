@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1013-fibonacci-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Dynamic Programming
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0221-maximal-square) |
+| [1013-fibonacci-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
