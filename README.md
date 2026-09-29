@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0598-range-addition-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
