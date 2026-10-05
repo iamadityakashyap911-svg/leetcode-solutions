@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0504-base-7) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
