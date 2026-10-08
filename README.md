@@ -33,7 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
-| [0717-1-bit-and-2-bit-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Number Theory
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -281,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0830-largest-triangle-area) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
