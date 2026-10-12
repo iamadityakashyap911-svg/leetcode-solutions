@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0139-word-break) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -306,4 +309,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
