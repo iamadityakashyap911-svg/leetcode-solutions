@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0978-valid-mountain-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0504-base-7) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
 ## Prefix Sum
 |  |
 | ------- |
