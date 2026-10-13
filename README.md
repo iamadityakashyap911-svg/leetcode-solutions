@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1031-add-to-array-form-of-integer](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Math
 |  |
