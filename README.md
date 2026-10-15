@@ -332,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
