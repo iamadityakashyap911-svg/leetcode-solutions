@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Math
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Number Theory
 |  |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Greedy
 |  |
