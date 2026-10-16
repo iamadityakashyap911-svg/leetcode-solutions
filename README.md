@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1332-remove-palindromic-subsequences](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3407-substring-matching-pattern](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
