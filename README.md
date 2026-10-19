@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0504-base-7) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0504-base-7) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
