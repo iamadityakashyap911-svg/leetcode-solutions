@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0415-add-strings) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Polygons
 |  |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
