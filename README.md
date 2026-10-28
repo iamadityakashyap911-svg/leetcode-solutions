@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Graph Theory
 |  |
 | ------- |
