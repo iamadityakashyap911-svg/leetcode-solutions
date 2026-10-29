@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
 ## Counting
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0933-number-of-recent-calls](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
 ## Geometry
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
 ## Graph Theory
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
 ## Sliding Window
 |  |
 | ------- |
