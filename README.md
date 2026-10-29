@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0890-lemonade-change](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -425,4 +429,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
