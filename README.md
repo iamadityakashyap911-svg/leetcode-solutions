@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
