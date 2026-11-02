@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Two Pointers
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
 ## Counting
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Polygons
 |  |
 | ------- |
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
