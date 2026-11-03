@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
