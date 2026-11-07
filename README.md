@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -342,10 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Design
