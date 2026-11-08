@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1670-design-front-middle-back-queue](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0933-number-of-recent-calls](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
 ## Geometry
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
@@ -445,15 +448,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1670-design-front-middle-back-queue](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [3829-design-ride-sharing-system](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3829-design-ride-sharing-system) |
 ## Sliding Window
 |  |
