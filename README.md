@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1670-design-front-middle-back-queue](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3407-substring-matching-pattern](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 ## Heap (Priority Queue)
 |  |
