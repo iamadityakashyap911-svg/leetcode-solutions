@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2073-time-needed-to-buy-tickets](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2261-k-divisible-elements-subarrays](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2261-k-divisible-elements-subarrays](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3324-split-the-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3324-split-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0139-word-break) |
+| [2261-k-divisible-elements-subarrays](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Brute-Force Search
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [2261-k-divisible-elements-subarrays](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
@@ -514,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Ternary Search
 |  |
