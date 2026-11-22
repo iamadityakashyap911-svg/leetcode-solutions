@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0572-subtree-of-another-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0572-subtree-of-another-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0572-subtree-of-another-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
@@ -420,11 +423,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3407-substring-matching-pattern](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
