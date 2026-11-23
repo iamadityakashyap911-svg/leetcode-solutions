@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0721-accounts-merge](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0721-accounts-merge](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0824-number-of-lines-to-write-string](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0888-fair-candy-swap](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0990-verifying-an-alien-dictionary](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Design
 |  |
 | ------- |
@@ -400,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/iamadityakashyap911-svg/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Recursion
 |  |
 | ------- |
